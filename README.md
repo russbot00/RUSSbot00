@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @russbot00
+- 👀 I’m interested in haking
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on deep web
+- 📫 How to reach me russbot00@mail.ru 
